@@ -1,9 +1,10 @@
 # Lionel Arnaud
 
-Biotech & deep-tech startup executive (2x COO), based in Paris.
-I build the tools I run on: my home and business infrastructure is fully
-automated as code, and AI agents deliver my daily clinical-trial briefing.
+Biotech & deep-tech executive (2x COO, founder of Dinnizer), based in Paris.
+I build the tools I run on: my home and business infrastructure is defined as code,
+and an AI assistant I built with coding agents briefs me on upcoming clinical-trial results.
 
-- **[ansible-autoconfig](https://github.com/lionel-arnaud/ansible-autoconfig)**: homelab as code (Ansible, Docker, Caddy, backups, monitoring)
-- **[Dinnizer](https://www.dinnizer.com)**: hands-on support for biotech & deep-tech CEOs
+- **[ansible-autoconfig](https://github.com/lionel-arnaud/ansible-autoconfig)**: homelab as code; four machines rebuilt and re-applied nightly from Git (Ansible, Docker, Caddy, Borg)
+- **[Dinnizer App](https://app.dinnizer.com)**: dinner-planning web app in Ruby on Rails, self-hosted ([source](https://github.com/lionel-arnaud/dinnizer))
+- **[dinnizer.com](https://www.dinnizer.com)**: hands-on support for biotech & deep-tech CEOs
 - **[LinkedIn](https://www.linkedin.com/in/lionel-arnaud-423baa21/)**
